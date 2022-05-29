@@ -1,0 +1,18 @@
+.example-spacer {
+    //Because we're making it display flex, we're adding spacing in between each flex object 
+    flex: 1 1 auto;
+  }
+
+  table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+
+  .container{
+    max-width: 1200px;
+    margin: 0 auto;
+  }

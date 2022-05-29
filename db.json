@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "productCategory": "Fruits",
+      "productFreshness": "Brand New",
+      "productPrice": 5.99,
+      "productDate": "2022-05-28T04:00:00.000Z",
+      "productComment": "This is a brand new apple!",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "productCategory": "Fruits",
+      "productFreshness": "Brand New",
+      "productPrice": 2.5,
+      "productDate": "2022-05-29T04:00:00.000Z",
+      "productComment": "This is a fresh mango!",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
